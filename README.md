@@ -70,7 +70,7 @@ git clone https://github.com/flowstxte/Project-BracPepol.git
 
 ### Navigate to the project directory:
 ```bash
-cd bracpepol
+cd Project-BracPepol
 ```
 
 ### Ensure you have the data.csv file in the correct location or update the file path in the code:
