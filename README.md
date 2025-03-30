@@ -65,7 +65,7 @@ BracPepol.findSIM_users('TeleTalk')
 ## Installation
 ### Clone the repository:
 ```bash
-git clone https://github.com/flowstxte/bracpepol.git
+git clone https://github.com/flowstxte/Project-BracPepol.git
 ```
 
 ### Navigate to the project directory:
